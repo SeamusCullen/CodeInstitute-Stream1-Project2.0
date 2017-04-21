@@ -50,5 +50,16 @@ MONDAY 17th APRIL
 With Gary, go through the whole thing and cream myself with gentle triumph!
 
 
+TUESDAY 18TH APRIL
+WHILE WORKING ON BRANCHING AND MERGING, it seems as though there was an assumption about file structures on people’s computers!!
+
+They expected DOCUMENTS to be one directory above the Test [or Test2 in my case] folder.
+BUT on my mac, I do not have that structure and my “documents” folder is in the cloud [on icloud]
+
+So, I will just go into Finder to copy it across…..another illustration of how, surely, no one would use a command line if a GUI was available!  It’s like Iron Man writing every line of code to move and expand something, rather than using his high-tech holographic gadgets!
+
+
+
+
 
 
